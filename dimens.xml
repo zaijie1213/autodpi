@@ -1,0 +1,8 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="discount_margin">10dp</dimen>
+    <dimen name="short_total_height">900dp</dimen>
+    <dimen name="bottom_map_height">200dp</dimen>
+    <dimen name="short_map_height">436dp</dimen>
+    <dimen name="short_map_move">167.5dp</dimen>
+</resources>
